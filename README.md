@@ -2,6 +2,13 @@
 
 Feel free to make a pull request if you find any errors!
 
+[Sketch 1](http://catarak.github.io/p5js-itpcamp-workshop/sketch_1/)/[Sketch 2](http://catarak.github.io/p5js-itpcamp-workshop/sketch_2/)/
+[Sketch 3](http://catarak.github.io/p5js-itpcamp-workshop/sketch_3/)/
+[Sketch 4](http://catarak.github.io/p5js-itpcamp-workshop/sketch_4/)/
+[Sketch 5](http://catarak.github.io/p5js-itpcamp-workshop/sketch_5/)/
+[Sketch 6](http://catarak.github.io/p5js-itpcamp-workshop/sketch_6/)/
+[Sketch 7](http://catarak.github.io/p5js-itpcamp-workshop/sketch_7/)
+
 ## References to Learn p5.js and JavaScript
 * [Dan Shiffman's Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Dan Shiffman's Book, Nature of Code](http://natureofcode.com/)
