@@ -9,6 +9,16 @@ Feel free to make a pull request if you find any errors!
 [Sketch 6](http://catarak.github.io/p5js-itpcamp-workshop/sketch_6/)/
 [Sketch 7](http://catarak.github.io/p5js-itpcamp-workshop/sketch_7/)
 
+## Directions to run locally
+* Download ZIP of this repository.
+* Unzip package, and open the folder.
+* On Mac, open Terminal.
+* Type `cd`, drag the `p5js-itpcamp-workshop` folder onto Terminal, and then hit enter.
+	* Before your hit enter, make sure the command looks something like `cd /Users/ctarakajian/Development/projects/p5js-itp-camp`.
+* Type `python -m SimpleHTTPServer`, and hit enter.
+* Navigate to http://localhost:8080 in your browser, and you should be able to see the examples.
+* To make changes, use your favorite text editor (I recommend [Sublime Text](https://www.sublimetext.com/)).
+
 ## References to Learn p5.js and JavaScript
 * [Dan Shiffman's Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Dan Shiffman's Book, Nature of Code](http://natureofcode.com/)
