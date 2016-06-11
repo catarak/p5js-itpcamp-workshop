@@ -17,6 +17,7 @@ Feel free to make a pull request if you find any errors!
 	* Before your hit enter, make sure the command looks something like `cd /Users/ctarakajian/Development/projects/p5js-itp-camp`.
 * Type `python -m SimpleHTTPServer`, and hit enter.
 * Navigate to http://localhost:8080 in your browser, and you should be able to see the examples.
+* To stop serving the directory, type CONTROL + C in the Terminal window where you ran the Python command.
 * To make changes, use your favorite text editor (I recommend [Sublime Text](https://www.sublimetext.com/)).
 
 ## References to Learn p5.js and JavaScript
