@@ -64,19 +64,19 @@ function draw() {
 	// endShape();
 
 	// //don't clear the background!, only draw when mouse pressed
-	// if (mouseIsPressed) {
-	// 	translate(width/2, height/2);
-	// 	var numSides = int(map(mouseY, 0, height, 2, 10));
-	// 	var radius = mouseX-width/2;
-	// 	var anglePerSide = TWO_PI/numSides;
-	// 	beginShape();
-	// 		for (var sideIndex = 0; sideIndex <= numSides; sideIndex += 1) {
-	// 			var x = cos(anglePerSide*sideIndex) * radius;
-	// 			var y = sin(anglePerSide*sideIndex) * radius;
-	// 			vertex(x, y);
-	// 		}
-	// 	endShape();
-	// }
+	if (mouseIsPressed) {
+		translate(width/2, height/2);
+		var numSides = int(map(mouseY, 0, height, 2, 10));
+		var radius = mouseX-width/2;
+		var anglePerSide = TWO_PI/numSides;
+		beginShape();
+			for (var sideIndex = 0; sideIndex <= numSides; sideIndex += 1) {
+				var x = cos(anglePerSide*sideIndex) * radius;
+				var y = sin(anglePerSide*sideIndex) * radius;
+				vertex(x, y);
+			}
+		endShape();
+	}
 
 
 }
