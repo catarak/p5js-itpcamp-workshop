@@ -26,6 +26,7 @@ Feel free to make a pull request if you find any errors!
 * [Dan Shiffman's Book, Nature of Code](http://natureofcode.com/)
 * [Kadenze Course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
 * [p5.js website](https://p5js.org/) (be sure to check out the examples and tutorials)
+* [Generative Design](http://www.generative-gestaltung.de/) Book with great examples in Processing, some of them have been translated to p5.js (code)[https://github.com/generative-design/Code-Package-p5.js] 
 * [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
 * Github, CodePen, JSBin (just search for p5 examples)
 * Tumblr (find generative art you like, then look on Github for their source)
