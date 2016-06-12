@@ -21,6 +21,7 @@ Feel free to make a pull request if you find any errors!
 * To make changes, use your favorite text editor (I recommend [Sublime Text](https://www.sublimetext.com/)).
 
 ## References to Learn p5.js and JavaScript
+* [p5.js Thimble Boilerplate](https://thimbleprojects.org/catarak/78594/) - Click 'Remix' to make your own version
 * [Dan Shiffman's Youtube Channel](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Dan Shiffman's Book, Nature of Code](http://natureofcode.com/)
 * [Kadenze Course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
